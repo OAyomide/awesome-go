@@ -676,6 +676,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [go-sciter](https://github.com/sciter-sdk/go-sciter) - Go bindings for Sciter: the Embeddable HTML/CSS/script engine for modern desktop UI development. Cross platform.
 * [gotk3](https://github.com/gotk3/gotk3) - Go bindings for GTK3.
 * [gowd](https://github.com/dtylman/gowd) - Rapid and simple desktop UI development with GO, HTML, CSS and NW.js. Cross platform.
+* [gu](https://github.com/gu-io/gu) - A server side and client side rendering library in Go.
 * [qt](https://github.com/therecipe/qt) - Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi).
 * [ui](https://github.com/andlabs/ui) - Platform-native GUI library for Go. Cross platform.
 * [walk](https://github.com/lxn/walk) - Windows application library kit for Go.
@@ -910,6 +911,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [lk](https://github.com/hyperboloide/lk) - A simple licensing library for golang.
 * [llvm](https://github.com/llir/llvm) - Library for interacting with LLVM IR in pure Go.
 * [margelet](https://github.com/zhulik/margelet) - Framework for building Telegram bots.
+* [morningpaper2remarkable](https://github.com/jessfraz/morningpaper2remarkable) - A bot to synchronize the morning paper to a remarkable tablet.
 * [morse](https://github.com/alwindoss/morse) - Library to convert to and from morse code.
 * [pdfgen](https://github.com/hyperboloide/pdfgen) - HTTP service to generate PDF from Json requests.
 * [persian](https://github.com/mavihq/persian) - Some utilities for Persian language in go.
